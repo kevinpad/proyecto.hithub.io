@@ -1,0 +1,41 @@
+{
+  "squadName" : "Kevin Santiago ",
+  "homeTown" : "Igeniero de Sistemas ",
+  "formed" : 2024,
+  "secretBase" : "holasssadfsg",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "web Master",
+      "age" : 2024,
+      "secretIdentity" : "Web  Mastter",
+      "powers" : [
+        "Ecommerce",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "p. Junior",
+      "age" : 2025,
+      "secretIdentity" : "Proyectos a futuro",
+      "powers" : [
+        "Programar un boot",
+        "Crear Pluguins ",
+        "Crear una api "
+      ]
+    },
+    {
+      "name" : "p. junior",
+      "age" : 2026,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Crear servicios ",
+        "Crear una pasarela de pagos ",
+        "Revisar pagos exitosos con un boot ",
+        "Boot con ia"
+        
+      ]
+    }
+  ]
+}
